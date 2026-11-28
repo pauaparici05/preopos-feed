@@ -1,0 +1,87 @@
+{
+ "generado": "2026-11-28T17:35:40+00:00",
+ "hoy": "2026-11-28",
+ "total": 5137,
+ "fuentes": {
+  "BOE": {
+   "racha_errores": 0,
+   "silencio": 0,
+   "hueco_habitual": 0,
+   "ultimo_con_datos": "2026-11-28",
+   "publicaciones": 499,
+   "convocatorias": 377,
+   "sin_nombre": 0.05,
+   "sin_tipo": 0.01,
+   "con_fecha_cierre": 0.73
+  },
+  "DOGV": {
+   "racha_errores": 0,
+   "silencio": 0,
+   "hueco_habitual": 1,
+   "ultimo_con_datos": "2026-11-27",
+   "publicaciones": 169,
+   "convocatorias": 90,
+   "sin_nombre": 0.03,
+   "sin_tipo": 0.08,
+   "con_fecha_cierre": 0.14
+  },
+  "BOPV": {
+   "racha_errores": 0,
+   "silencio": 0,
+   "hueco_habitual": 1,
+   "ultimo_con_datos": "2026-11-27",
+   "publicaciones": 137,
+   "convocatorias": 48,
+   "sin_nombre": 0.12,
+   "sin_tipo": 0.09,
+   "con_fecha_cierre": 0.0
+  },
+  "BOPA": {
+   "racha_errores": 0,
+   "silencio": 0,
+   "hueco_habitual": 1,
+   "ultimo_con_datos": "2026-11-27",
+   "publicaciones": 73,
+   "convocatorias": 21,
+   "sin_nombre": 0.05,
+   "sin_tipo": 0.25,
+   "con_fecha_cierre": 0.0
+  },
+  "BOPC": {
+   "racha_errores": 0,
+   "silencio": 0,
+   "hueco_habitual": 1,
+   "ultimo_con_datos": "2026-11-28",
+   "publicaciones": 27,
+   "convocatorias": 14,
+   "sin_nombre": 0.14,
+   "sin_tipo": 0.15,
+   "con_fecha_cierre": 0.0
+  },
+  "BOCM": {
+   "racha_errores": 0,
+   "silencio": 0,
+   "hueco_habitual": 1,
+   "ultimo_con_datos": "2026-11-27",
+   "publicaciones": 240,
+   "convocatorias": 65,
+   "sin_nombre": 0.2,
+   "sin_tipo": 0.03,
+   "con_fecha_cierre": 0.08
+  },
+  "BOJA": {
+   "racha_errores": 0,
+   "silencio": 0,
+   "hueco_habitual": 1,
+   "ultimo_con_datos": "2026-11-27",
+   "publicaciones": 124,
+   "convocatorias": 23,
+   "sin_nombre": 0.3,
+   "sin_tipo": 0.02,
+   "con_fecha_cierre": 0.3
+  }
+ },
+ "alertas": [],
+ "nuevas": [],
+ "resueltas": []
+}
